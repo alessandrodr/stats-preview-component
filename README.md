@@ -17,5 +17,5 @@ Desktop view:
 
 Mobile view:
 
-<img src="https://user-images.githubusercontent.com/103607112/166124878-33973dd0-0c0e-4715-997f-d56730d1f7c8.png" width="440" height="auto" title="stats-m">
+<img src="https://user-images.githubusercontent.com/103607112/166124878-33973dd0-0c0e-4715-997f-d56730d1f7c8.png" width="375" height="auto" title="stats-m">
 
